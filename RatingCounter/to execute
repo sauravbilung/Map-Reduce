@@ -1,0 +1,5 @@
+To execute type in spyder console:
+!python RatingCounter.py path-to-data/ml-100k/u.dat
+
+Note: Different versions of mrjob use different parameters and the name of those parameters change, so install 
+appropriate versions of mrjob(map reduce job) packaage in anaconda.
